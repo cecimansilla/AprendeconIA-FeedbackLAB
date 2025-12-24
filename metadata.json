@@ -1,0 +1,7 @@
+{
+  "name": "Feedback Lab",
+  "description": "Una herramienta profesional de preparación de feedback basada en el método SBI y diseño empático.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
